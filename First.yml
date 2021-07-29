@@ -1,0 +1,9 @@
+---
+- name: first test
+  hosts: localhost
+  vars:
+  tasks:
+    - name: first output
+      debug:
+        msg: "first output"
+        
