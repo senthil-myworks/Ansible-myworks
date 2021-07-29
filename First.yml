@@ -5,5 +5,4 @@
   tasks:
     - name: first output
       debug:
-        msg: "first output"
-        
+        msg: "first output from git lab"
